@@ -1,0 +1,3 @@
+[submodule "lista-de-livros"]
+	path = lista-de-livros
+	url = https://github.com/fael890/Projeto-SpringBoot-TerceiroBimestre.git
